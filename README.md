@@ -4,6 +4,7 @@ A simple Java application for managing student details and attendance.
 
 ## Tools and Libraries
 * Java Swing
+* JDBC
 * SQL
 * SQLite
 
